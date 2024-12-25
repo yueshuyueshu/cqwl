@@ -21,16 +21,16 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1024px;
-  height:580px;
+  width:1308px;
+  height:741px;
 }
 #u0 {
   border-width:0px;
   position:absolute;
-  left:0px;
+  left:-142px;
   top:0px;
-  width:1024px;
-  height:580px;
+  width:1308px;
+  height:741px;
   display:flex;
 }
 #u0 .text {
@@ -60,8 +60,8 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'云峰字库重庆山城棒棒体 Bold', '云峰字库重庆山城棒棒体 常规', '云峰字库重庆山城棒棒体', sans-serif;
-  font-weight:700;
+  font-family:'云峰字库重庆山城棒棒体 常规', '云峰字库重庆山城棒棒体', sans-serif;
+  font-weight:400;
   font-style:normal;
   font-size:132px;
   color:#FD5900;
@@ -74,8 +74,8 @@
   width:981px;
   height:142px;
   display:flex;
-  font-family:'云峰字库重庆山城棒棒体 Bold', '云峰字库重庆山城棒棒体 常规', '云峰字库重庆山城棒棒体', sans-serif;
-  font-weight:700;
+  font-family:'云峰字库重庆山城棒棒体 常规', '云峰字库重庆山城棒棒体', sans-serif;
+  font-weight:400;
   font-style:normal;
   font-size:132px;
   color:#FD5900;
