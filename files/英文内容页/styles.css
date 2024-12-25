@@ -1,6 +1,5 @@
 ﻿body {
   margin:0px;
-  background-color:rgba(217, 0, 27, 1);
   background-image:none;
   position:relative;
   left:0px;
@@ -17,12 +16,12 @@
   position:absolute;
   z-index:0;
 }
-#u5_div {
+#u11_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:50px;
+  width:35px;
   height:21px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -35,23 +34,23 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u5 {
+#u11 {
   border-width:0px;
   position:absolute;
-  left:961px;
-  top:13px;
-  width:50px;
+  left:977px;
+  top:11px;
+  width:35px;
   height:21px;
   display:flex;
 }
-#u5 .text {
+#u11 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u5_text {
+#u11_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
