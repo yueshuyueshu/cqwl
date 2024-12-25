@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1080px;
+  width:768px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -21,16 +21,16 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1094px;
-  height:1920px;
+  width:769px;
+  height:1024px;
 }
 #u6 {
   border-width:0px;
   position:absolute;
-  left:-4px;
-  top:-1px;
-  width:1094px;
-  height:1920px;
+  left:-1px;
+  top:0px;
+  width:769px;
+  height:1024px;
   display:flex;
 }
 #u6 .text {
@@ -51,8 +51,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:981px;
-  height:142px;
+  width:666px;
+  height:76px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -63,21 +63,21 @@
   font-family:'云峰字库重庆山城棒棒体 常规', '云峰字库重庆山城棒棒体', sans-serif;
   font-weight:400;
   font-style:normal;
-  font-size:132px;
+  font-size:91px;
   color:#FD5900;
 }
 #u7 {
   border-width:0px;
   position:absolute;
-  left:50px;
-  top:403px;
-  width:981px;
-  height:142px;
+  left:51px;
+  top:192px;
+  width:666px;
+  height:76px;
   display:flex;
   font-family:'云峰字库重庆山城棒棒体 常规', '云峰字库重庆山城棒棒体', sans-serif;
   font-weight:400;
   font-style:normal;
-  font-size:132px;
+  font-size:91px;
   color:#FD5900;
 }
 #u7 .text {
@@ -97,21 +97,21 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:190px;
-  height:801px;
+  width:102px;
+  height:606px;
 }
 #u8 {
   border-width:0px;
   position:absolute;
-  left:49px;
-  top:976px;
-  width:190px;
-  height:801px;
+  left:51px;
+  top:405px;
+  width:102px;
+  height:606px;
   display:flex;
   font-family:'华文行楷', sans-serif;
   font-weight:400;
   font-style:normal;
-  font-size:180px;
+  font-size:118px;
   color:#000000;
 }
 #u8 .text {
@@ -131,21 +131,21 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:184px;
-  height:829px;
+  width:98px;
+  height:545px;
 }
 #u9 {
   border-width:0px;
   position:absolute;
-  left:788px;
-  top:976px;
-  width:184px;
-  height:829px;
+  left:619px;
+  top:436px;
+  width:98px;
+  height:545px;
   display:flex;
   font-family:'华文行楷', sans-serif;
   font-weight:400;
   font-style:normal;
-  font-size:180px;
+  font-size:118px;
   color:#000000;
 }
 #u9 .text {
@@ -165,16 +165,16 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:301px;
-  height:403px;
+  width:161px;
+  height:215px;
 }
 #u10 {
   border-width:0px;
   position:absolute;
-  left:390px;
-  top:71px;
-  width:301px;
-  height:403px;
+  left:304px;
+  top:13px;
+  width:161px;
+  height:215px;
   display:flex;
 }
 #u10 .text {
@@ -195,8 +195,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:185px;
-  height:75px;
+  width:99px;
+  height:40px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
@@ -207,17 +207,17 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-size:55px;
+  font-size:28px;
 }
 #u11 {
   border-width:0px;
   position:absolute;
-  left:879px;
-  top:19px;
-  width:185px;
-  height:75px;
+  left:654px;
+  top:13px;
+  width:99px;
+  height:40px;
   display:flex;
-  font-size:55px;
+  font-size:28px;
 }
 #u11 .text {
   position:absolute;
