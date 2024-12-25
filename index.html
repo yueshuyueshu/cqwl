@@ -43,6 +43,13 @@
       $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
       $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
       $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+        // 判断是否为手机端的简单逻辑，通过检测userAgent中是否包含常见手机标识字符串
+        function isMobile() {
+            return /(iPhone|iPad|iPod|Android|webOS|BlackBerry|Windows Phone)/i.test(navigator.userAgent);
+        }
+        if (isMobile()) {
+            window.location.href = "手机1.html";
+        }
     </script>
   </head>
   <body>
