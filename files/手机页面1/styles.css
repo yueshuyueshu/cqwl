@@ -21,8 +21,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:684px;
-  height:87px;
+  width:761px;
+  height:209px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -39,10 +39,10 @@
 #u6 {
   border-width:0px;
   position:absolute;
-  left:198px;
+  left:253px;
   top:362px;
-  width:684px;
-  height:87px;
+  width:761px;
+  height:209px;
   display:flex;
   font-family:'云峰字库重庆山城棒棒体 常规', '云峰字库重庆山城棒棒体', sans-serif;
   font-weight:400;
@@ -73,8 +73,8 @@
 #u7 {
   border-width:0px;
   position:absolute;
-  left:198px;
-  top:1207px;
+  left:253px;
+  top:1107px;
   width:181px;
   height:568px;
   display:flex;
@@ -107,8 +107,8 @@
 #u8 {
   border-width:0px;
   position:absolute;
-  left:399px;
-  top:24px;
+  left:493px;
+  top:39px;
   width:282px;
   height:377px;
   display:flex;
@@ -178,8 +178,8 @@
 #u10 {
   border-width:0px;
   position:absolute;
-  left:663px;
-  top:1207px;
+  left:710px;
+  top:1107px;
   width:181px;
   height:568px;
   display:flex;
