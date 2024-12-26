@@ -45,7 +45,7 @@
       $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
         // 判断是否为手机端的简单逻辑，通过检测userAgent中是否包含常见手机标识字符串
         function isMobile() {
-            return /(iPhone|iPad|iPod|Android|webOS|BlackBerry|Windows Phone|huawei)/i.test(navigator.userAgent);
+            return /(iPhone|iPad|iPod|Android|webOS|BlackBerry|Windows Phone|HUAWEI)/i.test(navigator.userAgent);
         }
         if (isMobile()) {
             window.location.href = "手机页面1.html";
