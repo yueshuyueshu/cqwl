@@ -21,15 +21,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1091px;
+  width:1082px;
   height:1920px;
 }
 #u6 {
   border-width:0px;
   position:absolute;
-  left:-6px;
+  left:-3px;
   top:0px;
-  width:1091px;
+  width:1082px;
   height:1920px;
   display:flex;
 }
@@ -164,7 +164,7 @@
   width:99px;
   height:48px;
   background:inherit;
-  background-color:rgba(255, 255, 255, 1);
+  background-color:rgba(255, 255, 255, 0.737254901960784);
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
