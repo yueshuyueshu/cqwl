@@ -21,7 +21,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:35px;
+  width:50px;
   height:21px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -37,9 +37,9 @@
 #u30 {
   border-width:0px;
   position:absolute;
-  left:977px;
-  top:11px;
-  width:35px;
+  left:1396px;
+  top:16px;
+  width:50px;
   height:21px;
   display:flex;
 }
@@ -66,8 +66,8 @@
 #u31 {
   border-width:0px;
   position:absolute;
-  left:10px;
-  top:21px;
+  left:-419px;
+  top:24px;
   width:24px;
   height:5px;
   display:flex;
