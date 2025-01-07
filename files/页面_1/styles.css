@@ -112,7 +112,7 @@
   font-weight:400;
   font-style:normal;
   font-size:80px;
-  color:#000000;
+  color:#FFFFFF;
 }
 #u2 .text {
   position:absolute;
@@ -164,7 +164,7 @@
   width:130px;
   height:62px;
   background:inherit;
-  background-color:rgba(255, 255, 255, 0.549019607843137);
+  background-color:rgba(0, 0, 0, 0.411764705882353);
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
@@ -174,6 +174,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-size:30px;
+  color:#FFFFFF;
 }
 #u4 {
   border-width:0px;
@@ -184,6 +185,7 @@
   height:62px;
   display:flex;
   font-size:30px;
+  color:#FFFFFF;
 }
 #u4 .text {
   position:absolute;
@@ -217,7 +219,7 @@
   font-weight:400;
   font-style:normal;
   font-size:80px;
-  color:#000000;
+  color:#FFFFFF;
 }
 #u5 .text {
   position:absolute;

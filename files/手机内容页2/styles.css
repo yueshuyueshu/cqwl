@@ -27,7 +27,7 @@
 #u12 {
   border-width:0px;
   position:absolute;
-  left:-2px;
+  left:-3px;
   top:0px;
   width:1082px;
   height:2078px;
@@ -54,7 +54,7 @@
   width:126px;
   height:55px;
   background:inherit;
-  background-color:rgba(255, 255, 255, 0);
+  background-color:rgba(0, 0, 0, 0.603921568627451);
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
@@ -64,6 +64,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-size:35px;
+  color:#FFFFFF;
 }
 #u13 {
   border-width:0px;
@@ -74,6 +75,7 @@
   height:55px;
   display:flex;
   font-size:35px;
+  color:#FFFFFF;
 }
 #u13 .text {
   position:absolute;
@@ -95,7 +97,7 @@
   width:135px;
   height:55px;
   background:inherit;
-  background-color:rgba(255, 255, 255, 0);
+  background-color:rgba(0, 0, 0, 0.662745098039216);
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
@@ -105,6 +107,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-size:40px;
+  color:#FFFFFF;
 }
 #u14 {
   border-width:0px;
@@ -115,6 +118,7 @@
   height:55px;
   display:flex;
   font-size:40px;
+  color:#FFFFFF;
 }
 #u14 .text {
   position:absolute;
@@ -133,10 +137,10 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:636px;
-  height:161px;
+  width:700px;
+  height:200px;
   background:inherit;
-  background-color:rgba(255, 255, 255, 0.392156862745098);
+  background-color:rgba(245, 154, 35, 0.313725490196078);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
@@ -146,28 +150,176 @@
   font-weight:400;
   font-style:normal;
   font-size:163px;
+  color:#FFFFFF;
+  text-align:center;
 }
 #u15 {
   border-width:0px;
   position:absolute;
-  left:222px;
-  top:167px;
-  width:636px;
-  height:161px;
+  left:190px;
+  top:237px;
+  width:700px;
+  height:200px;
   display:flex;
   font-family:'云峰字库重庆山城棒棒体 常规', '云峰字库重庆山城棒棒体', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:163px;
+  color:#FFFFFF;
+  text-align:center;
 }
 #u15 .text {
   position:absolute;
-  align-self:flex-start;
+  align-self:center;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
 #u15_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u16_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:700px;
+  height:200px;
+  background:inherit;
+  background-color:rgba(245, 154, 35, 0.290196078431373);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'云峰字库重庆山城棒棒体 常规', '云峰字库重庆山城棒棒体', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:163px;
+  color:#FFFFFF;
+  text-align:center;
+}
+#u16 {
+  border-width:0px;
+  position:absolute;
+  left:190px;
+  top:742px;
+  width:700px;
+  height:200px;
+  display:flex;
+  font-family:'云峰字库重庆山城棒棒体 常规', '云峰字库重庆山城棒棒体', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:163px;
+  color:#FFFFFF;
+  text-align:center;
+}
+#u16 .text {
+  position:absolute;
+  align-self:center;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u16_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u17_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:700px;
+  height:200px;
+  background:inherit;
+  background-color:rgba(245, 154, 35, 0.388235294117647);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'云峰字库重庆山城棒棒体 常规', '云峰字库重庆山城棒棒体', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:163px;
+  color:#FFFFFF;
+  text-align:center;
+}
+#u17 {
+  border-width:0px;
+  position:absolute;
+  left:190px;
+  top:1264px;
+  width:700px;
+  height:200px;
+  display:flex;
+  font-family:'云峰字库重庆山城棒棒体 常规', '云峰字库重庆山城棒棒体', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:163px;
+  color:#FFFFFF;
+  text-align:center;
+}
+#u17 .text {
+  position:absolute;
+  align-self:center;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u17_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u18_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:700px;
+  height:200px;
+  background:inherit;
+  background-color:rgba(245, 154, 35, 0.32156862745098);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'云峰字库重庆山城棒棒体 常规', '云峰字库重庆山城棒棒体', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:163px;
+  color:#FFFFFF;
+  text-align:center;
+}
+#u18 {
+  border-width:0px;
+  position:absolute;
+  left:190px;
+  top:1752px;
+  width:700px;
+  height:200px;
+  display:flex;
+  font-family:'云峰字库重庆山城棒棒体 常规', '云峰字库重庆山城棒棒体', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:163px;
+  color:#FFFFFF;
+  text-align:center;
+}
+#u18 .text {
+  position:absolute;
+  align-self:center;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u18_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
