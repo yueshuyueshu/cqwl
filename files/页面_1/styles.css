@@ -97,21 +97,21 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:94px;
-  height:385px;
+  width:412px;
+  height:91px;
 }
 #u2 {
   border-width:0px;
   position:absolute;
-  left:-222px;
-  top:569px;
-  width:94px;
-  height:385px;
+  left:-215px;
+  top:747px;
+  width:412px;
+  height:91px;
   display:flex;
   font-family:'华文行楷', sans-serif;
   font-weight:400;
   font-style:normal;
-  font-size:70px;
+  font-size:80px;
   color:#000000;
 }
 #u2 .text {
@@ -178,8 +178,8 @@
 #u4 {
   border-width:0px;
   position:absolute;
-  left:1240px;
-  top:0px;
+  left:1238px;
+  top:43px;
   width:130px;
   height:62px;
   display:flex;
@@ -202,21 +202,21 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:94px;
-  height:385px;
+  width:412px;
+  height:91px;
 }
 #u5 {
   border-width:0px;
   position:absolute;
-  left:1089px;
-  top:569px;
-  width:94px;
-  height:385px;
+  left:792px;
+  top:747px;
+  width:412px;
+  height:91px;
   display:flex;
   font-family:'华文行楷', sans-serif;
   font-weight:400;
   font-style:normal;
-  font-size:70px;
+  font-size:80px;
   color:#000000;
 }
 #u5 .text {
