@@ -56,7 +56,37 @@
   text-transform:none;
   visibility:hidden;
 }
-#u53_div {
+#u53_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:292px;
+  height:184px;
+}
+#u53 {
+  border-width:0px;
+  position:absolute;
+  left:-319px;
+  top:313px;
+  width:292px;
+  height:184px;
+  display:flex;
+}
+#u53 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u53_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u54_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -77,7 +107,7 @@
   color:#FFFFFF;
   text-align:center;
 }
-#u53 {
+#u54 {
   border-width:0px;
   position:absolute;
   left:90px;
@@ -92,19 +122,19 @@
   color:#FFFFFF;
   text-align:center;
 }
-#u53 .text {
+#u54 .text {
   position:absolute;
   align-self:center;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u53_text {
+#u54_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u54_img {
+#u55_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -112,7 +142,7 @@
   width:44px;
   height:44px;
 }
-#u54 {
+#u55 {
   border-width:0px;
   position:absolute;
   left:-393px;
@@ -121,20 +151,20 @@
   height:44px;
   display:flex;
 }
-#u54 .text {
+#u55 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u54_text {
+#u55_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u55_div {
+#u56_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -153,7 +183,7 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u55 {
+#u56 {
   border-width:0px;
   position:absolute;
   left:-319px;
@@ -166,19 +196,19 @@
   font-style:normal;
   color:#FFFFFF;
 }
-#u55 .text {
+#u56 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u55_text {
+#u56_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u56_div {
+#u57_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -197,7 +227,7 @@
   font-size:40px;
   text-align:center;
 }
-#u56 {
+#u57 {
   border-width:0px;
   position:absolute;
   left:-333px;
@@ -210,39 +240,10 @@
   font-size:40px;
   text-align:center;
 }
-#u56 .text {
-  position:absolute;
-  align-self:center;
-  padding:0px 0px 0px 0px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u56_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-}
-#u57_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:292px;
-  height:184px;
-}
-#u57 {
-  border-width:0px;
-  position:absolute;
-  left:-319px;
-  top:299px;
-  width:292px;
-  height:184px;
-  display:flex;
-}
 #u57 .text {
   position:absolute;
   align-self:center;
-  padding:2px 2px 2px 2px;
+  padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
@@ -250,7 +251,6 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
-  visibility:hidden;
 }
 #u58_img {
   border-width:0px;
@@ -264,7 +264,7 @@
   border-width:0px;
   position:absolute;
   left:43px;
-  top:299px;
+  top:313px;
   width:291px;
   height:184px;
   display:flex;
@@ -416,7 +416,7 @@
   border-width:0px;
   position:absolute;
   left:660px;
-  top:296px;
+  top:310px;
   width:292px;
   height:184px;
   display:flex;
@@ -446,7 +446,7 @@
   border-width:0px;
   position:absolute;
   left:1160px;
-  top:296px;
+  top:310px;
   width:272px;
   height:182px;
   display:flex;
@@ -720,7 +720,7 @@
   border-width:0px;
   position:absolute;
   left:657px;
-  top:679px;
+  top:693px;
   width:284px;
   height:184px;
   display:flex;
@@ -750,7 +750,7 @@
   border-width:0px;
   position:absolute;
   left:1163px;
-  top:679px;
+  top:693px;
   width:285px;
   height:184px;
   display:flex;
@@ -780,7 +780,7 @@
   border-width:0px;
   position:absolute;
   left:-319px;
-  top:678px;
+  top:692px;
   width:278px;
   height:185px;
   display:flex;
@@ -810,7 +810,7 @@
   border-width:0px;
   position:absolute;
   left:177px;
-  top:679px;
+  top:693px;
   width:271px;
   height:184px;
   display:flex;
